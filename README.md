@@ -18,3 +18,14 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 **ASK_AMT**—Funding amount requested
 **IS_SUCCESSFUL**—Was the money used effectively
 
+
+![This is an image](https://github.com/cjallow01/deep-learning-challenge/blob/main/step1.png)
+
+
+![This is an image](https://github.com/cjallow01/deep-learning-challenge/blob/main/step2.png)
+
+
+![This is an image](https://github.com/cjallow01/deep-learning-challenge/blob/main/step3.png)
+
+
+![This is an image](https://github.com/cjallow01/deep-learning-challenge/blob/main/step4.png)
